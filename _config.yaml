@@ -43,9 +43,6 @@ plugins:
 
 # SEO
 lang: en-US
-twitter:
-  username: your-twitter
-  card: summary
 
 # Google Analytics (optional - add your tracking ID)
 # google_analytics: UA-XXXXXXXXX-X

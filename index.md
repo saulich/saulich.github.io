@@ -9,9 +9,9 @@ I'm Siemen Aulich, a Master's student in Physics at Georg-August-University Göt
 
 ## About Me
 
-I am passionate about understanding [specific physics topics] through both theoretical and computational approaches. During my Master's studies, I have focused on [brief description of your work], developing expertise in [methods/techniques].
+I am passionate about leveraging computational methods to solve complex problems in physics. My academic journey has equipped me with a strong foundation in theoretical concepts and practical skills in programming and data analysis. I enjoy collaborating on interdisciplinary projects that push the boundaries of our understanding of the physical world. My research experience includes working on machine learning applications in high-energy physics, specifically in event reconstruction for particle collisions. 
 
-As I prepare to begin my PhD journey, I am particularly interested in exploring [research directions] and collaborating with research groups working on [specific topics].
+As I prepare to begin my PhD journey, I am particularly interested in exploring neuroscience and collaborating with research groups working on understanding how learning and cognition is made possible from neural computation.
 
 ## Current Work
 
@@ -32,11 +32,11 @@ As I prepare to begin my PhD journey, I am particularly interested in exploring 
 **Computational Skills**
 - **Programming**: C/C++, Python, Julia, Rust
 - **Tools**: Git, TensorFlow, PyTorch, JAX, ONNX, Root 
-- **Methods**: Monte Carlo simulations, DFT, [techniques]
+- **Methods**: Monte Carlo simulations [techniques]
 
-**Laboratory Experience** *(if applicable)*
-- [Technique 1]
-- [Technique 2]
+**Laboratory Experience** 
+- ISO-6 Cleanroom protocols
+- Semiconductor detector production
 
 
 ---
