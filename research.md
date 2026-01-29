@@ -26,6 +26,7 @@ My research interests span several areas of physics, with a focus on:
 ### Master's Thesis: Improving Event Reconstruction in Top Quark Pairs using Machine Learning Techniques
 
 **Duration**: 06/04/2025 - 6/07/2026
+
 **Supervisor**: Dr. Katharina Behr, DESY Hamburg
 
 **Abstract**: My thesis focuses on enhancing the accuracy of event reconstruction in top quark pair production at the LHC by leveraging advanced machine learning algorithms. The goal is to improve the identification of decay products and improve measurement precision.
@@ -46,19 +47,20 @@ My research interests span several areas of physics, with a focus on:
 ### Online Event Selection for the Mu3e Experiment using Machine Learning
 
 **Duration**: 07/2025 - 09/2025
+
 **Role**: Research Intern
+
 **Institution**: ETH Zürich
 
 **Description**: Worked on developing machine learning models to enhance the online event selection process for the Mu3e experiment, aiming to improve the detection of rare muon decay events.
 
-**Key Achievements**:
-- Developed and tested ML algorithms for real-time data filtering
 
-
-### Analysing of Ultra-Pheripheral Heavy Ion Collisions at the LHC
+### Analysing Ultra-Pheripheral Heavy Ion Collisions at the LHC to Measure Tau g-2
 
 **Duration**: 07/2024 - 09/2024
+
 **Role**: DESY Summer Student
+
 **Institution**: DESY Hamburg
 
 **Description**: Participated in the analysis of ultra-peripheral heavy ion collisions, focusing on photon-induced interactions and their implications for understanding nuclear structure.
@@ -73,11 +75,9 @@ My research interests span several areas of physics, with a focus on:
 
 
 ### Programming & Software
-```
 - **Languages**: C/C++, Python, Julia, Rust
 - **Frameworks**: TensorFlow, PyTorch, JAX, ONNX
 - **Tools**: Git, Root
-```
 ---
 
 ## Research Philosophy
