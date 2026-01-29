@@ -1,1 +1,51 @@
+# Site Settings
+title: Siemen Aulich
+description: Master's Student in Physics
+url: "https://saulich.github.io"
+baseurl: ""
+
+# Personal Information (customize these!)
+author:
+  name: Siemen Henning Aulich
+  email: siemen.aulich@desy.de
+  location: Hamburg, Germany
+  linkedin: siemen-aulich
+  github: saulich
+  orcid: 0009-0009-6600-127X  # optional
+
+# Research Interests
+research_interests:
+  - Particle Physics
+  - Machine Learning
+  - Data Analysis
+  - Neuroscience
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Research
+    url: /research
+  - title: CV
+    url: /cv
+  - title: Contact
+    url: /#contact
+
+# Theme
 theme: jekyll-theme-minimal
+logo: /assets/img/IMG_7056.JPG  # Add your photo here (optional)
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# SEO
+lang: en-US
+twitter:
+  username: your-twitter
+  card: summary
+
+# Google Analytics (optional - add your tracking ID)
+# google_analytics: UA-XXXXXXXXX-X
