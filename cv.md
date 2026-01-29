@@ -175,12 +175,6 @@ Navigation: [Home](/) | [Research](/research)
 
 ---
 
-## Publications
-
-For a complete list of publications and presentations, see my [Publications page](/publications).
-
----
-
 ## Contact
 
 **Email**: [siemen.aulich@desy.de](mailto:siemen.aulich@desy.de)  
