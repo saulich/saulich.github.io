@@ -5,7 +5,7 @@ title: Research
 
 # Research
 
-[Navigation: [Home](/) | [Publications](/publications) | [CV](/cv)]
+Navigation: [Home](/)  | [CV](/cv)
 
 ---
 

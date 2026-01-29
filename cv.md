@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-[Navigation: [Home](/) | [Research](/research) | [Publications](/publications)]
+Navigation: [Home](/) | [Research](/research) 
 
 ---
 

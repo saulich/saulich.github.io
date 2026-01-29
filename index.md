@@ -3,6 +3,10 @@ layout: default
 title: Home
 ---
 
+
+Navigation: [Research](/research) | [CV](/cv)
+
+
 # Welcome!
 
 I'm Siemen Aulich, a Master's student in Physics at Georg-August-University Göttingen, Germany. My research focuses on computational and theoretical physics, particularly in the areas of particle physics and neuroscience.
