@@ -15,9 +15,12 @@ I'm Siemen Aulich, a Master's student in Physics at Georg-August-University Göt
 
 ## About Me
 
-I am passionate about leveraging computational methods to solve complex problems in physics. My academic journey has equipped me with a strong foundation in theoretical concepts and practical skills in programming and data analysis. I enjoy collaborating on interdisciplinary projects that push the boundaries of our understanding of the physical world. My research experience includes working on machine learning applications in high-energy physics, specifically in event reconstruction for particle collisions. 
+I am passionate about leveraging computational methods to solve complex problems in physics. My academic journey has equipped me with a strong foundation in theoretical concepts in a variety of physics domains, as well as practical skills in programming and data analysis.
 
-As I prepare to begin my PhD journey, I am particularly interested in exploring neuroscience and collaborating with research groups working on understanding how learning and cognition is made possible from neural computation.
+While my primary focus has been on high energy physics and machine learning, I am becoming deeply interested in neuroscience and its intersection with computational techniques.
+
+When I'm not immersed in research, I enjoy hiking, running, photography, and reading fantasy novels. 
+
 
 ## Current Work
 
@@ -30,7 +33,7 @@ As I prepare to begin my PhD journey, I am particularly interested in exploring 
 ## Skills & Expertise
 
 **Theoretical Background**
-- Particle Physics
+- Theoretical Physics
 - Machine Learning
 - Statistical Analysis
 - Data Science

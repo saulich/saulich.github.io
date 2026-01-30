@@ -5,7 +5,7 @@ title: Research
 
 # Research
 
-Navigation: [Home](/)  | [CV](/cv)
+Navigation: [Home](/) | [CV](/cv)
 
 ---
 
@@ -65,6 +65,26 @@ My research interests span several areas of physics, with a focus on:
 
 **Description**: Participated in the analysis of ultra-peripheral heavy ion collisions, focusing on photon-induced interactions and their implications for understanding nuclear structure.
 
+**PDF**: [Summer Student Report (PDF)](/assets/papers/Aulich_DESY_Summer_Student_Project.pdf)
+
+
+
+
+### Accessing Quantum Entanglement in off-shell H*→ZZ Events using Machine Learning
+
+**Duration**: 03/2023 - 07/2023
+
+**Role**: Bachelor’s Thesis
+
+**Institution**: Georg-August-University Göttingen
+
+**Description**: Investigated the use of machine learning techniques to identify quantum entanglement signatures in off-shell Higgs boson decay events.
+
+**PDF**: [Bachelor's Thesis (PDF)](/assets/papers/CERN-THESIS-2023-153.pdf) (also available on [CERN Document Server](https://repository.cern/records/6nr8n-3c429))
+
+
+
+
 ---
 
 ## Technical Skills
@@ -82,7 +102,9 @@ My research interests span several areas of physics, with a focus on:
 
 ## Research Philosophy
 
-I believe in the power of interdisciplinary approaches to solve complex scientific problems. By combining theoretical insights with cutting-edge computational techniques, I aim to contribute to advancements in our understanding of fundamental physics while also pushing the boundaries of machine learning applications. The current hype of machine learning is exciting, but as a physicist I am particularly interested in how these methods can be grounded in first principles and lead to interpretable results.
+Due to my background in physics, I am always driven by a desire to understand the underlying principles of systems. Initially, this led me to study fundamental particles and forces. Over time, I have become increasingly interested in how complex behaviours emerge from simpler components, which has drawn me towards machine learning and neuroscience. In simple words: no matter how well we know fundamental laws, there is always more to learn about how they give rise to the rich phenomena we observe in nature.
+
+Apart from that, I strongly believe that machine learning has the potential to revolutionize scientific research by enabling us to analyse vast datasets and uncover patterns that would be otherwise inaccessible. By combining my knowledge of physics with advanced computational techniques, I aim to contribute to this exciting frontier of research.
 
 ---
 
