@@ -61,7 +61,7 @@ I'm always interested in discussing research opportunities and collaborations!
 
 🔗 **Connect**: 
 [LinkedIn](https://linkedin.com/in/siemen-aulich) | 
-[GitHub](https://github.com/saulich) | 
+[GitHub](https://github.com/siaulich) | 
 
 📍 **Location**: Hamburg, Germany
 

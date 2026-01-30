@@ -1,7 +1,7 @@
 # Site Settings
 title: Siemen Aulich
 description: Master's Student in Physics at DESY Hamburg
-url: "https://saulich.github.io"
+url: "https://siaulich.github.io"
 
 
 # Personal Information (customize these!)
@@ -10,7 +10,7 @@ author:
   email: siemen.aulich@desy.de
   location: Hamburg, Germany
   linkedin: siemen-aulich
-  github: saulich
+  github: siaulich
   orcid: 0009-0009-6600-127X  # optional
   show_on_home: true  # Display author info on home page below photo
 
