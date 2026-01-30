@@ -25,7 +25,9 @@ When I'm not immersed in research, I enjoy hiking, running, photography, and rea
 ## Current Work
 
 **Master's Thesis**: Improving Event Reconstruction in Top Quark Pairs using Machine Learning Techniques
+
 **Supervisor**: Dr. Katharina Behr, DESY Hamburg
+
 **Abstract**: My thesis focuses on enhancing the accuracy of event reconstruction in top quark pair production at the LHC by leveraging advanced machine learning algorithms. The goal is to improve the identification of decay products and improve measurement precision.
 
 
@@ -40,7 +42,7 @@ When I'm not immersed in research, I enjoy hiking, running, photography, and rea
 
 **Computational Skills**
 - **Programming**: C/C++, Python, Julia, Rust
-- **Tools**: Git, TensorFlow, PyTorch, JAX, ONNX, Root 
+- **Tools**: Git, TensorFlow, PyTorch, JAX, ONNX, Root, HTCondor
 - **Methods**: Monte Carlo simulations [techniques]
 
 **Laboratory Experience** 

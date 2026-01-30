@@ -146,34 +146,6 @@ Navigation: [Home](/) | [Research](/research)
 **Deutschlandstipendium** (October 2021)
 - Scholarship by the German Federal Ministry for Education and Research for gifted and talented students
 
-### Awards
-
-**3rd Prize at the Bundeswettbewerb für Mathematik** (September 2020)
-- 3rd Prize in the first round of the German National Competition for Mathematics
-
-**GdCh-Abiturpreis** (July 2020)
-- Prize awarded for the best final exam in chemistry by the German Chemical Society
-
----
-
-## Skills
-
-### Programming Languages
-- **Expert**: Python, C/C++
-- **Intermediate**: Rust, Julia
-
-### Machine Learning & Scientific Computing
-- **ML Frameworks**: TensorFlow/Keras, PyTorch, ONNX
-- **Scientific Software Development**: Git, Testing, CI/CD, HTCondor
-- **Data Analysis**: ROOT, NumPy, pandas, Matplotlib
-
-### Languages
-- **German**: Native speaker
-- **English**: Fluent
-- **Dutch**: Basic knowledge
-- **French**: Basic knowledge
-
----
 
 ## Contact
 
